@@ -1,1 +1,1 @@
-const API_KEY = "INSERT MAPBOX ACCESS KEY";
+const API_KEY = "pk.eyJ1IjoiamFja2hhcnY3IiwiYSI6ImNrN3czam4zMDAwODIzbWxoM3dpMWtrdTQifQ.mWkSEaNGSfN57nDnUoXljg";
